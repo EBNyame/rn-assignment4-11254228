@@ -20,8 +20,8 @@ const Home = () => {
       <ScrollView showsVerticalScrollIndicator={false}>
         <View style={styles.profileView}>
           <View>
-            <Text style={styles.profileName}>Exodus Blessed Nyame</Text>
-            <Text style={styles.profileMail}>exodus@gmail.com</Text>
+            <Text style={styles.profileName}>Abigail Aseidu Efi</Text>
+            <Text style={styles.profileMail}>abigail@gmail.com</Text>
           </View>
           <View>
             <Image source={require("../assets/profilepic.png")} />
